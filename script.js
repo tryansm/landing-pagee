@@ -1,4 +1,4 @@
-const WHATSAPP_NUMBER = "6281200000000";
+const WHATSAPP_NUMBER = "6285795832289";
 
 const HOURS = {
   weekday: { open: 9, close: 20 },
